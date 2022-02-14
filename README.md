@@ -62,7 +62,7 @@
 
 ## ✨ Preview
 
-System Online  
+Online system  
 [https://study-ignite-react-challenge-02-02.vercel.app](https://study-ignite-react-challenge-02-02.vercel.app//)  
 
 ## 💻 Project
